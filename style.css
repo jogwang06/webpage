@@ -1,0 +1,17 @@
+html{
+	background-color: #21CAC6;
+}
+.logo-image{
+	width: 45px;
+	height: 45px;
+	border-radius: 5px;
+}
+.main-nav ul{
+	float: right;
+	list-style-type: none;
+	padding-right: 0px;
+}
+.nav-list{
+	display: inline-block;
+	text-decoration: none;
+}
